@@ -1,2 +1,4 @@
 # matlab_speech_analysis_synthesis
 MATLAB在语音信号分析与合成中的应用
+
+解压到当前文件夹下，运行main.p文件即可
